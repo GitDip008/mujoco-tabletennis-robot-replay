@@ -27,3 +27,6 @@ MUJOCO_LOG.TXT
 .DS_Store
 .idea/
 .vscode/
+
+# demo videos are intentionally tracked
+!demo/*.mp4
