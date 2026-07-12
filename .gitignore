@@ -1,0 +1,29 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ── Large data / sim output (NOT distributed) ──
+data/
+datasets/
+output/
+mujoco_sim/output/
+*.npz
+*.npy
+MUJOCO_LOG.TXT
+
+# ── Media ──
+*.mp4
+*.mov
+*.avi
+
+# ── Proprietary compiled binary (do NOT distribute) ──
+*.pyd
+*.so
+
+# ── OS / IDE ──
+.DS_Store
+.idea/
+.vscode/
