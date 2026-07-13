@@ -8,11 +8,14 @@ research work that builds on my MSc thesis
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/fdf379f3-2364-4bb1-8143-8c09ea86fbcf
+
+
 The robot executing table-tennis shots in the MuJoCo simulation:
 
-<video src="https://github.com/GitDip008/mujoco-tabletennis-robot-replay/raw/main/demo/MuJoCo_shots.mp4" controls muted autoplay loop playsinline width="100%"></video>
 
-> If the player above does not load, ▶️ **[watch the demo video directly](demo/MuJoCo_shots.mp4)**.
+
 
 ## What it does
 
