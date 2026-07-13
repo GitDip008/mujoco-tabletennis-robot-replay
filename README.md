@@ -8,11 +8,12 @@ research work that builds on my MSc thesis
 
 ## Demo
 
+The robot executing table-tennis shots in the MuJoCo simulation:
 
 https://github.com/user-attachments/assets/fdf379f3-2364-4bb1-8143-8c09ea86fbcf
 
 
-The robot executing table-tennis shots in the MuJoCo simulation:
+
 
 
 
